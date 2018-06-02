@@ -42,7 +42,6 @@
  	cout<<"before"<<endl;
  	display(graph);
  	removeEdge(graph,1,3);
- 	//cout<<graph[1].size()<<endl;
  	cout<<"after"<<endl;
  	display(graph);
  	return 0;
